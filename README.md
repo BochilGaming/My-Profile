@@ -1,4 +1,5 @@
 # My-Profile
+[![My Profile Picture](https://avatars.githubusercontent.com/u/79433517?v=4)]
 ```HI i'm BochilGaming```
 
 ## Stats
